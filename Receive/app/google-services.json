@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "1095126245777",
+    "firebase_url": "https://wayv-71cc5.firebaseio.com",
+    "project_id": "wayv-71cc5",
+    "storage_bucket": "wayv-71cc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095126245777:android:ba67f5b064222570",
+        "android_client_info": {
+          "package_name": "io.chirp.chirpwifi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095126245777-4fb176quc9322eqeeqagpssap5fm4c4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiO43hNP8MWW-jir5_IIYC7kUw7dlxNzE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095126245777:android:5314162dc3f63542",
+        "android_client_info": {
+          "package_name": "io.chirp.connectdemoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095126245777-4fb176quc9322eqeeqagpssap5fm4c4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiO43hNP8MWW-jir5_IIYC7kUw7dlxNzE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

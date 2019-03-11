@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: io.chirp.connect:chirp-connect-release:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/chirp-connect-release.aar/9d17103589bf7892c0f4cb6d62facc87/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/chirp-connect-release.aar/9d17103589bf7892c0f4cb6d62facc87/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
